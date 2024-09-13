@@ -4,7 +4,6 @@ This project demonstrates the implementation of a Convolutional Neural Network (
 
 ### **README.md:**
 
-```markdown
 # MNIST Digit Recognition using CNN with TensorFlow & Keras
 
 ## Project Overview
@@ -111,4 +110,3 @@ This project is licensed under the MIT License.
 ## Acknowledgements
 - **Keras & TensorFlow**: For providing a powerful and user-friendly deep learning framework.
 - **MNIST**: For the open dataset used in this project.
-```
