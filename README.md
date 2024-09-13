@@ -53,7 +53,7 @@ This project involves building a Convolutional Neural Network (CNN) to classify 
 ### Key Graphs
 
 - **Training & Validation Accuracy and Loss**:
-  ![Accuracy and Loss](path/to/your/accuracy-loss-graph.png)
+  ![Accuracy and Loss]
 
 - **Confusion Matrix and Misclassifications**:
   Visual analysis of model misclassifications.
