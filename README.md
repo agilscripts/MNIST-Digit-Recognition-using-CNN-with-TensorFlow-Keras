@@ -1,13 +1,9 @@
-"# MNIST-Digit-Recognition-using-CNN-with-TensorFlow-Keras
-This project demonstrates the implementation of a Convolutional Neural Network (CNN) for handwritten digit recognition using the MNIST dataset. The model is built using TensorFlow and Keras, achieving high accuracy through data preparation, augmentation, and a well-structured neural network architecture.
-
-
-### **README.md:**
-
 # MNIST Digit Recognition using CNN with TensorFlow & Keras
 
 ## Project Overview
 This project involves building a Convolutional Neural Network (CNN) to classify handwritten digits from the MNIST dataset. The dataset consists of 28x28 grayscale images of digits (0-9), and the goal is to correctly predict the digit represented by each image. This project was developed in Jupyter Notebook using Python, TensorFlow, and Keras.
+
+<img width="648" alt="Screenshot 2024-09-14 at 12 59 28 AM" src="https://github.com/user-attachments/assets/164d770c-c45d-4a7a-9d70-a8355067a94e">
 
 ## Dataset
 - **MNIST dataset**: The dataset contains 60,000 training images and 10,000 test images of handwritten digits (0-9). Each image is 28x28 pixels and is labeled with the corresponding digit.
